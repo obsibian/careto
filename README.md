@@ -54,7 +54,7 @@ sudo apt-get install -f
 ## 🛠 Uso
 
 1. Abre la aplicación Careto.
-2. Pulse el botón de Windows y arrástrela la imagen con el botón izquierdo del ratón.
+2. Pulse la tecla de Windows y arrástrela la imagen con el botón izquierdo del ratón.
 
 ---
 
