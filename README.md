@@ -11,6 +11,8 @@ Careto es una aplicación gráfica para Debian 13 que permite configurar y contr
 * Interfaz intuitiva**: Diseño moderno con switches personalizados.
 * Detección automática de cámaras**: Detecta todas las cámaras USB disponibles en el sistema.
 * Configuración de visualización personalizada.
+* 
+<img width="640" height="480" alt="CARETO" src="https://github.com/user-attachments/assets/a7f32444-0898-4383-b655-0ec45522575d" />
 
 ---
 
