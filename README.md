@@ -1,7 +1,7 @@
 # careto
 Careto es una aplicación gráfica para Debian 13 que permite configurar y controlar fácilmente la visualización de la cámara web USB, con múltiples opciones de personalización.
 
-<img width="832" height="1281" alt="careto4" src="https://github.com/user-attachments/assets/cb96730f-f508-4330-80e9-eea6f4a051ee" />
+<img width="932" height="859" alt="careto5" src="https://github.com/user-attachments/assets/daec97bf-42ac-47de-8690-e5ffdb50e60f" />
 
 ---
 
